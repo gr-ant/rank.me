@@ -14,3 +14,17 @@ This application runs exclusively with PowerShell utilizing windows forms for th
 # Use
 
 To use the function you need to download the repository, unzip "images.zip" as just "images" within the same directory, and run jailrate.ps1.
+
+***
+
+# What I Want
+
+[] Move over rank.csv and history.csv into a MySQL relational database
+
+[] Develop solution with [Ruby on Rails](https://rubyonrails.org/)
+
+[] Build scraping module to run through public image data for a larger library
+
+[] Integrate with social media api such as instagram or facebook
+
+[] Publish Online
